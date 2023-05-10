@@ -18,7 +18,7 @@ Welcome to the Node.js TDD, OOP, and Clean Architecture Template project on GitH
 
 1. Clone the repository to your local machine using the following command: 
 ```javascript
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/judeclassic/Node.js-TDD-OOP-and-Clean-Architecture-Template.git
 ```
 2. Install the project dependencies by running the following command in the project directory:
 ```javascript
